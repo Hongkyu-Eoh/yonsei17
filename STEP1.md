@@ -50,7 +50,7 @@ Practically, we want to get you involved in the lectures. There will be some adv
 * [Google Books](https://books.google.co.uk)
 * [Mendeley](https://www.mendeley.com/newsfeed/)
 * [VESTA](http://jp-minerals.org/vesta/en/) 
-* [Avogadro](http://avogadro.cc/wiki/Main_Page)
+* [Avogadro](http://avogadro.cc)
 * [GIMP](https://www.gimp.org)
 * [Inkscape](https://inkscape.org/en/)
 
